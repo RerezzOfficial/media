@@ -1,0 +1,826 @@
+[
+  {
+    "image": "https://cdn.some-random-api.com/zwMPjO3w.png",
+    "fact": "Cats make very little noise when they walk around. The thick, soft pads on their paws allow them to sneak up on their prey -- or you!"
+  },
+  {
+    "image": "https://cdn.some-random-api.com/VfUfPbOd.png",
+    "fact": "Unlike dogs, cats do not have a sweet tooth. Scientists believe this is due to a mutation in a key taste receptor."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/wnN53vOz.png",
+    "fact": "Cats take between 20-40 breaths per minute."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/FrutHK-o.png",
+    "fact": "Every year, nearly four million cats are eaten in Asia."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/3UKVqfWT.png",
+    "fact": "When a family cat died in ancient Egypt, family members would shave off their eyebrows as they mourned."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/IbtnfoDy.png",
+    "fact": "A cat's carbon footprint is similar to that of a VW Bug, whereas a dog's is more like a Hummer."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/H_i1HaVk.png",
+    "fact": "There are 45 Hemingway cats living at the author's former home in Key West, Fla."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/pme6n4jP.png",
+    "fact": "Cats are really cool."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/vjLvx5Bk.png",
+    "fact": "A cat's cerebral cortex (the part of the brain in charge of cognitive information processing) has 300 million neurons, compared with a dog's 160 million."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/GyxCBzsk.png",
+    "fact": "A cat's eyesight is both better and worse than humans. It is better because cats can see in much dimmer light and they have a wider peripheral view. It's worse because they don't see color as well as humans do. Scientists believe grass appears red to cats"
+  },
+  {
+    "image": "https://cdn.some-random-api.com/Mul785_Z.png",
+    "fact": "One legend claims that cats were created when a lion on Noah's Ark sneezed and two kittens came out."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/A_u0WaJp.png",
+    "fact": "Cats have 230 bones, while humans only have 206."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/KGQeblkZ.png",
+    "fact": "A cat ran for mayor of Mexico City in 2013."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/wWDpjVIO.png",
+    "fact": "A happy cat holds her tail high and steady."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/theOmP33.png",
+    "fact": "The first official cat show in the UK was organised at Crystal Palace in 1871."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/uh3OHhJM.png",
+    "fact": "Cat owners who are male tend to be luckier in love, as they are perceived as more sensitive."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/H_9569xi.png",
+    "fact": "During the time of the Spanish Inquisition, Pope Innocent VIII condemned cats as evil and thousands of cats were burned. Unfortunately, the widespread killing of cats led to an explosion of the rat population, which exacerbated the effects of the Black Death."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/hVbPoSch.png",
+    "fact": "A house cat is faster than Usain Bolt."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/4TJ7s82b.png",
+    "fact": "A cat's jaw can't move sideways, so a cat can't chew large chunks of food."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/6J-PbDLR.png",
+    "fact": "A cat can’t climb head first down a tree because every claw on a cat’s paw points the same way. To get down from a tree, a cat must back down."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/ZTcu23n1.png",
+    "fact": "Cats walk like camels and giraffes: They move both of their right feet first, then move both of their left feet. No other animals walk this way."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/GtSHINn_.png",
+    "fact": "Hearing is the strongest of cat's senses: They can hear sounds as high as 64 kHz — compared with humans, who can hear only as high as 20 kHz."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/OvxhF1nT.png",
+    "fact": "A group of cats is called a \"clowder.\""
+  },
+  {
+    "image": "https://cdn.some-random-api.com/HEq5xGgE.png",
+    "fact": "A cat can’t climb head first down a tree because every claw on a cat’s paw points the same way. To get down from a tree, a cat must back down."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/G8tJlo-e.png",
+    "fact": "Only 24% of cats who enter animal shelters are adopted."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/iOQMbIiz.png",
+    "fact": "Cats have the largest eyes relative to their head size of any mammal."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/KfGWs_x1.png",
+    "fact": "Cat people are 11% more likely to be introverted."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/9xocXT5F.png",
+    "fact": "Though cats can notice the fast movements of their prey, it often seems to them that slow-moving objects are actually stagnant."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/7uQAAX6y.png",
+    "fact": "The technical term for a cat's hairball is a \"bezoar.\""
+  },
+  {
+    "image": "https://cdn.some-random-api.com/WFwRsZKg.png",
+    "fact": "The Egyptian Mau is the oldest breed of cat. This breed is also the fastest pedigreed cat."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/LmJgIq6v.png",
+    "fact": "In 1987 cats overtook dogs as the number one pet in America."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/34_E-1I5.png",
+    "fact": "When cats leave their poop uncovered, it is a sign of aggression to let you know they don't fear you."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/HNkHofHe.png",
+    "fact": "Cats don't have sweat glands over their bodies like humans do. Instead, they sweat only through their paws."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/00xPyYnm.png",
+    "fact": "Hearing is the strongest of cat's senses: They can hear sounds as high as 64 kHz — compared with humans, who can hear only as high as 20 kHz."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/u0J4hBu-.png",
+    "fact": "Cats have a longer-term memory than dogs, especially when they learn by actually doing rather than simply seeing."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/FfPQOH2o.png",
+    "fact": "Cats take between 20-40 breaths per minute."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/aWs7RUI-.png",
+    "fact": "Cat owners are 17% more likely to have a graduate degree."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/Kp6BjKcy.png",
+    "fact": "Cats lived with soldiers in trenches, where they killed mice during World War I."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/3DS2tGQD.png",
+    "fact": "When a cat chases its prey, it keeps its head level. Dogs and humans bob their heads up and down."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/MS7lZIam.png",
+    "fact": "The largest litter of kittens produced 19 kittens."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/Nm6AaYfe.png",
+    "fact": "Among many other diseases, cats can suffer from anorexia, senility, feline AIDS and acne."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/70_OY6MZ.png",
+    "fact": "Cat people are 25% likely to pick George as their favorite Beatle."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/NgWQc55M.png",
+    "fact": "A house cat is faster than Usain Bolt."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/6RugwQzC.png",
+    "fact": "There are cats who have survived falls from over 32 stories (320 meters) onto concrete."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/84vsxjx6.png",
+    "fact": "Cats have 230 bones, while humans only have 206."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/FRt3H0nD.png",
+    "fact": "During the time of the Spanish Inquisition, Pope Innocent VIII condemned cats as evil and thousands of cats were burned. Unfortunately, the widespread killing of cats led to an explosion of the rat population, which exacerbated the effects of the Black Death."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/aKd7yq4V.png",
+    "fact": "During the time of the Spanish Inquisition, Pope Innocent VIII condemned cats as evil and thousands of cats were burned. Unfortunately, the widespread killing of cats led to an explosion of the rat population, which exacerbated the effects of the Black Death."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/1Z51cOkh.png",
+    "fact": "Cats' collarbones don't connect to their other bones, as these bones are buried in their shoulder muscles."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/j_RVsppx.png",
+    "fact": "Cat people are more open to new experiences than typical \"dog people.\""
+  },
+  {
+    "image": "https://cdn.some-random-api.com/_08JhxpD.png",
+    "fact": "Cats don't have sweat glands over their bodies like humans do. Instead, they sweat only through their paws."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/7lgstApN.png",
+    "fact": "A cat has been mayor of Talkeetna, Alaska, for 20 years. His name is Stubbs. He died in 2017."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/Ph4dszim.png",
+    "fact": "A cat's cerebral cortex (the part of the brain in charge of cognitive information processing) has 300 million neurons, compared with a dog's 160 million."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/LhDyg2E-.png",
+    "fact": "Calico cats are almost always female."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/FI_6B3Sp.png",
+    "fact": "The world's largest cat measured 48.5 inches long."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/ik8sIIs2.png",
+    "fact": "Hearing is the strongest of cat's senses: They can hear sounds as high as 64 kHz — compared with humans, who can hear only as high as 20 kHz."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/dIvnjCSj.png",
+    "fact": "The Egyptian word for cat is, in fact, \"mau.\""
+  },
+  {
+    "image": "https://cdn.some-random-api.com/mPcw1_sN.png",
+    "fact": "Approximately 24 cat skins can make a coat."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/uM9d6dUy.png",
+    "fact": "Cats lick themselves to get your scent off."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/zjNpxyXT.png",
+    "fact": "Cats' collarbones don't connect to their other bones, as these bones are buried in their shoulder muscles."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/r2hGE8j-.png",
+    "fact": "Black cats are bad luck in the United States, but they are good luck in the United Kingdom and Australia."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/h6s1dNGT.png",
+    "fact": "Wikipedia has a recording of a cat meowing because why not?"
+  },
+  {
+    "image": "https://cdn.some-random-api.com/tbkQEUXa.png",
+    "fact": "Cats take between 20-40 breaths per minute."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/FrLdJqmp.png",
+    "fact": "There are more than 500 million domestic cats in the world, with approximately 40 recognized breeds."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/0M3uQPrM.png",
+    "fact": "Cats have free-floating clavicle bones that attach their shoulders to their forelimbs, which allows them to squeeze through very small spaces."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/0WsFigOF.png",
+    "fact": "A cat's nose is ridged with a unique pattern, just like a human fingerprint."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/ghPtRXd-.png",
+    "fact": "Cats are the most popular pet in the United States: There are 88 million pet cats and 74 million dogs."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/z5PEJAuW.png",
+    "fact": "Cats have 230 bones, while humans only have 206."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/UuKMLz4s.png",
+    "fact": "Cats make about 100 different sounds. Dogs make only about 10."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/erAtbJCs.png",
+    "fact": "Approximately 24 cat skins can make a coat."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/J_-BLkto.png",
+    "fact": "In tigers and tabbies, the middle of the tongue is covered in backward-pointing spines, used for breaking off and gripping meat."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/EHt2KoVu.png",
+    "fact": "Only 11.5% of people consider themselves \"cat people.\""
+  },
+  {
+    "image": "https://cdn.some-random-api.com/Qa-i9ErB.png",
+    "fact": "In the 15th century, Pope Innocent VIII began ordering the killing of cats, pronouncing them demonic."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/tpniYRSO.png",
+    "fact": "A house cat is faster than Usain Bolt."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/-VpCbmu5.png",
+    "fact": "The Egyptian word for cat is, in fact, \"mau.\""
+  },
+  {
+    "image": "https://cdn.some-random-api.com/9LtMe8IX.png",
+    "fact": "When a family cat died in ancient Egypt, family members would shave off their eyebrows as they mourned."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/96xo_iPx.png",
+    "fact": "Most cats don't like water because their coats do not insulate them well enough."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/3uj1HGmb.png",
+    "fact": "A cat called the Turkish Van does not have the fur insulation problem and LOVES water."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/1DO_ouVe.png",
+    "fact": "Original kitty litter was made out of sand but it was replaced by more absorbent clay in 1948."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/XWdPYF2T.png",
+    "fact": "Cats have an extra organ that allows them to taste scents on the air, which is why your cat stares at you with her mouth open from time to time."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/jN1Rcjpf.png",
+    "fact": "In the 1960s, the CIA tried to turn a cat into a bonafide spy by implanting a microphone into her ear and a radio transmitter at the base of her skull. She somehow survived the surgery but got hit by a taxi on her first mission."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/_dztuppA.png",
+    "fact": "While it is commonly thought that the ancient Egyptians were the first to domesticate cats, the oldest known pet cat was recently found in a 9,500-year-old grave on the Mediterranean island of Cyprus. This grave predates early Egyptian art depicting cats by 4,000 years or more."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/2BRR9Vqn.png",
+    "fact": "Cat people are 25% likely to pick George as their favorite Beatle."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/_WeLyEbI.png",
+    "fact": "A cat rubs against people to mark its territory."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/tkMPOJQm.png",
+    "fact": "Cats have the largest eyes relative to their head size of any mammal."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/2gjCYXZh.png",
+    "fact": "The cat's tail is used to maintain balance."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/xK0QlSSl.png",
+    "fact": "Black cats are bad luck in the United States, but they are good luck in the United Kingdom and Australia."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/1nibPKzy.png",
+    "fact": "A group of cats is called a \"clowder.\""
+  },
+  {
+    "image": "https://cdn.some-random-api.com/OPXogM45.png",
+    "fact": "In contrast to dogs, cats have not undergone major changes during their domestication process."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/v4O8w4Eo.png",
+    "fact": "Cats can't taste sweetness."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/G76wNc5o.png",
+    "fact": "The ancestor of all domestic cats is the African Wild Cat which still exists today."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/VVpGYytq.png",
+    "fact": "In the 1960s, the CIA tried to turn a cat into a bonafide spy by implanting a microphone into her ear and a radio transmitter at the base of her skull. She somehow survived the surgery but got hit by a taxi on her first mission."
+  },
+  {
+    "image": "https://i.imgur.com/IzQ7BFu.jpeg",
+    "fact": "Cats have an extra organ that allows them to taste scents on the air, which is why your cat stares at you with her mouth open from time to time."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/-PVUJvJX.png",
+    "fact": "Cat owners are 17% more likely to have a graduate degree."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/J3QPiP7O.png",
+    "fact": "Cats have 230 bones, while humans only have 206."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/zrvw15qX.png",
+    "fact": "Researchers say your cat does know her name. She just doesn't care."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/PNHqsL0C.png",
+    "fact": "Cats make about 100 different sounds. Dogs make only about 10."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/Ws13-nHE.png",
+    "fact": "A cat's carbon footprint is similar to that of a VW Bug, whereas a dog's is more like a Hummer."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/ygQvIOCA.png",
+    "fact": "The leopard is the most widespread of all big cats."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/VNPfLaFJ.png",
+    "fact": "A happy cat holds her tail high and steady."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/QTgIo-5j.png",
+    "fact": "Cats are often lactose intolerant, so stop givin' them milk!"
+  },
+  {
+    "image": "https://cdn.some-random-api.com/wL0bglRV.png",
+    "fact": "Cats have an extra organ that allows them to taste scents on the air, which is why your cat stares at you with her mouth open from time to time."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/7MDcatHL.png",
+    "fact": "In contrast to dogs, cats have not undergone major changes during their domestication process."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/2uoIwBo5.png",
+    "fact": "Cats walk like camels and giraffes: They move both of their right feet first, then move both of their left feet. No other animals walk this way."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/QklhRofZ.png",
+    "fact": "Cats' rough tongues can lick a bone clean of any shred of meat."
+  },
+  {
+    "image": "https://i.imgur.com/RZHLTkU.jpg",
+    "fact": "Wikipedia has a recording of a cat meowing because why not?"
+  },
+  {
+    "image": "https://cdn.some-random-api.com/cuxa1Wzq.png",
+    "fact": "A cat can't climb head first down a tree because every claw on a cat's paw points the same way. To get down from a tree, a cat must back down."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/cCzNiQHE.png",
+    "fact": "A cat can jump up to six times its length."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/O-2YJvxA.png",
+    "fact": "Cats lived with soldiers in trenches, where they killed mice during World War I."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/GRlCl3di.png",
+    "fact": "Eighty-eight percent of cats in the U.S. are spayed or neutered."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/O4tdqPSE.png",
+    "fact": "A cat can jump up to six times its length."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/vB9F-ffE.png",
+    "fact": "Cats have free-floating clavicle bones that attach their shoulders to their forelimbs, which allows them to squeeze through very small spaces."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/OrhqCMUO.png",
+    "fact": "There is a show in Iceland called \"Keeping Up With the Kattarshians.\" It's a cat reality show that features 4 kittens who live together in fully-furnished \"cat\" house, Big Brother-style."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/WacewitJ.png",
+    "fact": "Cats sleep 70% of their lives."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/BQXNklHY.png",
+    "fact": "Stubbs (April 12, 1997 – July 21, 2017) was a cat who was the mayor of Talkeetna, Alaska from July 1997 until his death."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/7ucubr7S.png",
+    "fact": "Cats have scent glands along their tail, their forehead, lips, chin, and the underside of their front paws."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/DEKhH5cP.png",
+    "fact": "Cats walk like camels and giraffes: They move both of their right feet first, then move both of their left feet. No other animals walk this way."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/gi7WHbah.png",
+    "fact": "During the Middle Ages, cats were associated with withcraft, and on St. John’s Day, people all over Europe would stuff them into sacks and toss the cats into bonfires. On holy days, people celebrated by tossing cats from church towers."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/VsT2s0wH.png",
+    "fact": "The first cat in space was French. She was named Felicette, or \"Astrocat.\" She survived the trip."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/W_vKtYvq.png",
+    "fact": "Cats are the most popular pet in the United States: There are 88 million pet cats and 74 million dogs."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/-PKM6L_g.png",
+    "fact": "Approximately 24 cat skins can make a coat."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/_gQQJZTh.png",
+    "fact": "During the Middle Ages, cats were associated with withcraft, and on St. John’s Day, people all over Europe would stuff them into sacks and toss the cats into bonfires. On holy days, people celebrated by tossing cats from church towers."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/YJJaRpRg.png",
+    "fact": "In the 1960s, the CIA tried to turn a cat into a bonafide spy by implanting a microphone into her ear and a radio transmitter at the base of her skull. She somehow survived the surgery but got hit by a taxi on her first mission."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/5OXLaFEP.png",
+    "fact": "The first official cat show in the UK was organised at Crystal Palace in 1871."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/x-0F1Roi.png",
+    "fact": "A group of cats is called a \"clowder.\""
+  },
+  {
+    "image": "https://cdn.some-random-api.com/h8oscYmi.png",
+    "fact": "The cat's tail is used to maintain balance."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/aT7xXAuK.png",
+    "fact": "The world's richest cat is worth $13 million after his human passed away and left her fortune to him."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/12P3g6Vx.png",
+    "fact": "Cats step with both left legs, then both right legs when they walk or run."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/wwzXSSmB.png",
+    "fact": "A cat's cerebral cortex (the part of the brain in charge of cognitive information processing) has 300 million neurons, compared with a dog's 160 million."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/v9n5coUX.png",
+    "fact": "Isaac Newton is credited with inventing the cat door."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/PzDppPdM.png",
+    "fact": "Cats can move their ears 180 degrees."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/XRihpUN9.png",
+    "fact": "Cats have 230 bones, while humans only have 206."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/eDPMnpa1.png",
+    "fact": "Unlike dogs, cats do not have a sweet tooth. Scientists believe this is due to a mutation in a key taste receptor."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/UyiAhzST.png",
+    "fact": "During the time of the Spanish Inquisition, Pope Innocent VIII condemned cats as evil and thousands of cats were burned. Unfortunately, the widespread killing of cats led to an explosion of the rat population, which exacerbated the effects of the Black Death."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/phPOAcIj.png",
+    "fact": "Black cats are bad luck in the United States, but they are good luck in the United Kingdom and Australia."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/94xGUpE_.png",
+    "fact": "In the 15th century, Pope Innocent VIII began ordering the killing of cats, pronouncing them demonic."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/pp5dM6Mz.png",
+    "fact": "Cats have the largest eyes relative to their head size of any mammal."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/vMAvOXZO.png",
+    "fact": "Cats make about 100 different sounds. Dogs make only about 10."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/dDwMgYkj.png",
+    "fact": "A cat can’t climb head first down a tree because every claw on a cat’s paw points the same way. To get down from a tree, a cat must back down."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/K7WE1yog.png",
+    "fact": "It was illegal to slay cats in ancient Egypt, in large part because they provided the great service of controlling the rat population."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/dQw6z5Lg.png",
+    "fact": "A cat has five toes on his front paws, and four on the back, unless he's a polydactyl."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/mNvdOOMj.png",
+    "fact": "A group of cats is called a \"clowder.\""
+  },
+  {
+    "image": "https://cdn.some-random-api.com/0Koeu0Kd.png",
+    "fact": "Cats' collarbones don't connect to their other bones, as these bones are buried in their shoulder muscles."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/y9DJTzi3.png",
+    "fact": "When a family cat died in ancient Egypt, family members would shave off their eyebrows as they mourned."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/u1r_w5xz.png",
+    "fact": "Researchers say your cat does know her name. She just doesn't care."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/UA_rs0x6.png",
+    "fact": "A cat has been mayor of Talkeetna, Alaska, for 20 years. His name is Stubbs. He died in 2017."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/7dgjv5WU.png",
+    "fact": "When cats grimace, they are usually \"taste-scenting.\" They have an extra organ that, with some breathing control, allows the cats to taste-sense the air."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/XbF0mjK3.png",
+    "fact": "Cats sleep 70% of their lives."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/M2nI-HPn.png",
+    "fact": "Cats have whiskers on the backs of their front legs, as well."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/9-dPiFNp.png",
+    "fact": "Most cats don't like water because their coats do not insulate them well enough."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/DH3p8KTh.png",
+    "fact": "The world's largest cat measured 48.5 inches long."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/Ah1Z4j-o.png",
+    "fact": "When asked if her husband had any hobbies, Mary Todd Lincoln is said to have replied \"cats.\""
+  },
+  {
+    "image": "https://cdn.some-random-api.com/2qezUziN.png",
+    "fact": "Cats' collarbones don't connect to their other bones, as these bones are buried in their shoulder muscles."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/epu0KxlK.png",
+    "fact": "A cat can't climb head first down a tree because every claw on a cat's paw points the same way. To get down from a tree, a cat must back down."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/0EieMeku.png",
+    "fact": "There are cats who have survived falls from over 32 stories (320 meters) onto concrete."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/4WaJs5U1.png",
+    "fact": "Only 11.5% of people consider themselves \"cat people.\""
+  },
+  {
+    "image": "https://cdn.some-random-api.com/lYGKipgP.png",
+    "fact": "Among many other diseases, cats can suffer from anorexia, senility, feline AIDS and acne."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/ejTQEHk5.png",
+    "fact": "Cats make about 100 different sounds. Dogs make only about 10."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/LIcQ_kaT.png",
+    "fact": "A cat can jump up to six times its length."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/484AvRL8.png",
+    "fact": "The largest litter of kittens produced 19 kittens."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/BGxWdd64.png",
+    "fact": "Though cats can notice the fast movements of their prey, it often seems to them that slow-moving objects are actually stagnant."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/1_EIqhj8.png",
+    "fact": "A cat rubs against people to mark its territory."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/7Eg7Gb8n.png",
+    "fact": "In tigers and tabbies, the middle of the tongue is covered in backward-pointing spines, used for breaking off and gripping meat."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/zH4PXVUK.png",
+    "fact": "Cats have over 20 muscles that control their ears."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/VCkuU_fn.png",
+    "fact": "Cats are often lactose intolerant, so stop givin' them milk!"
+  },
+  {
+    "image": "https://cdn.some-random-api.com/0g0-Ic7X.png",
+    "fact": "Female cats are typically right-pawed while male cats are typically left-pawed."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/MzihP3iV.png",
+    "fact": "The oldest cat video on YouTube dates back to 1894 (when it was made, not when it was uploaded, duh)."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/kyesOBjN.png",
+    "fact": "Cats are often lactose intolerant, so stop givin' them milk!"
+  },
+  {
+    "image": "https://cdn.some-random-api.com/-bnqqvMt.png",
+    "fact": "Cat owners are 17% more likely to have a graduate degree."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/IIoAKpRq.png",
+    "fact": "Eighty-eight percent of cats in the U.S. are spayed or neutered."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/nuhmfYd_.png",
+    "fact": "Most cats don't like water because their coats do not insulate them well enough."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/N3Ab169S.png",
+    "fact": "Cats knead with their paws when they are happy."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/h6c2MReb.png",
+    "fact": "Cats have free-floating clavicle bones that attach their shoulders to their forelimbs, which allows them to squeeze through very small spaces."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/tiAmqL-C.png",
+    "fact": "Cats are very soft."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/dhWY4Idp.png",
+    "fact": "A cat has been mayor of Talkeetna, Alaska, for 20 years. His name is Stubbs. He died in 2017."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/32BVuBR1.png",
+    "fact": "Cats' rough tongues can lick a bone clean of any shred of meat."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/VxKgt-CS.png",
+    "fact": "Cats are really cool."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/Q2mG_JWJ.png",
+    "fact": "During the Middle Ages, cats were associated with withcraft, and on St. John’s Day, people all over Europe would stuff them into sacks and toss the cats into bonfires. On holy days, people celebrated by tossing cats from church towers."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/KNTuR6Xl.png",
+    "fact": "The technical term for a cat's hairball is a \"bezoar.\""
+  },
+  {
+    "image": "https://cdn.some-random-api.com/tPoV3z14.png",
+    "fact": "Cats have scent glands along their tail, their forehead, lips, chin, and the underside of their front paws."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/IIFI0yLW.png",
+    "fact": "The first official cat show in the UK was organised at Crystal Palace in 1871."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/bmNORsyS.png",
+    "fact": "There are cats who have survived falls from over 32 stories (320 meters) onto concrete."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/yJiwWZwD.png",
+    "fact": "Wikipedia has a recording of a cat meowing because why not?"
+  },
+  {
+    "image": "https://cdn.some-random-api.com/pNa8zLLJ.png",
+    "fact": "Cats have a longer-term memory than dogs, especially when they learn by actually doing rather than simply seeing."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/xHrGMJEM.png",
+    "fact": "Cats were mythic symbols of divinity in ancient Egypt."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/8tS7UI5M.png",
+    "fact": "Cats step with both left legs, then both right legs when they walk or run."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/ddmzTJTA.png",
+    "fact": "Cats have whiskers on the backs of their front legs, as well."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/a_EfMQH3.png",
+    "fact": "A cat's cerebral cortex (the part of the brain in charge of cognitive information processing) has 300 million neurons, compared with a dog's 160 million."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/NOvoaMd-.png",
+    "fact": "Owning a cat can reduce the risk of stroke and heart attack by a third."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/9Dz16JAX.png",
+    "fact": "Among many other diseases, cats can suffer from anorexia, senility, feline AIDS and acne."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/VRGUEfYi.png",
+    "fact": "Unlike dogs, cats do not have a sweet tooth. Scientists believe this is due to a mutation in a key taste receptor."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/3Y4tQ4wr.png",
+    "fact": "The technical term for a cat's hairball is a \"bezoar.\""
+  },
+  {
+    "image": "https://cdn.some-random-api.com/UdCbqhoR.png",
+    "fact": "When cats leave their poop uncovered, it is a sign of aggression to let you know they don't fear you."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/Ukg-W9Yc.png",
+    "fact": "In 1987 cats overtook dogs as the number one pet in America."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/4ebc7u5A.png",
+    "fact": "The oldest cat video on YouTube dates back to 1894 (when it was made, not when it was uploaded, duh)."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/GEn7Uvgt.png",
+    "fact": "Cats use their whiskers to detect if they can fit through a space."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/kSfFkqeO.png",
+    "fact": "Approximately 24 cat skins can make a coat."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/Qb9avm6t.png",
+    "fact": "Edward Lear, author of \"The Owl and the Pussycat\", is said to have had his new house in San Remo built to exactly the same specification as his previous residence, so that his much-loved tabby, Foss, would immediately feel at home."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/ajKY3Fmi.png",
+    "fact": "Cat people are 11% more likely to be introverted."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/dPqHhdzw.png",
+    "fact": "In 1987 cats overtook dogs as the number one pet in America."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/prfidcZP.png",
+    "fact": "Cats use their whiskers to detect if they can fit through a space."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/aWdHqyLT.png",
+    "fact": "When cats leave their poop uncovered, it is a sign of aggression to let you know they don't fear you."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/1VMtWa0L.png",
+    "fact": "While it is commonly thought that the ancient Egyptians were the first to domesticate cats, the oldest known pet cat was recently found in a 9,500-year-old grave on the Mediterranean island of Cyprus. This grave predates early Egyptian art depicting cats by 4,000 years or more."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/SWA8ZYqN.png",
+    "fact": "A group of cats is called a \"clowder.\""
+  },
+  {
+    "image": "https://cdn.some-random-api.com/Mn545r8m.png",
+    "fact": "Cats step with both left legs, then both right legs when they walk or run."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/H-chbzvp.png",
+    "fact": "Cats were mythic symbols of divinity in ancient Egypt."
+  },
+  {
+    "image": "https://cdn.some-random-api.com/_rV-uEg5.png",
+    "fact": "A cat's jaw can't move sideways, so a cat can't chew large chunks of food."
+  }
+]
